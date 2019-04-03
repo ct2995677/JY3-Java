@@ -1,0 +1,13 @@
+public class zhuanhuan
+{
+	public static void main(String[] args)
+	{
+		int shu = 48;
+		char y = shu1(shu);
+		System.out.print(y);
+	}
+	public static char shu1(int shu)
+	{
+		char y = (char)shu;
+		return y;
+}
